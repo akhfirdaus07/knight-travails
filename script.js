@@ -1,4 +1,4 @@
-const knightTravails = require("./knights-travails");
+const knightTravails = require("./knight-travails");
 
 // Test Cases
 
